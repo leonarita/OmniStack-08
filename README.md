@@ -11,9 +11,9 @@ Nessa semana, foi desenvolvido uma aplicação full stack integrando backend (co
 A linguagem de programação utilizada foi o **`Javascript`**.
 
 <br>
-<br>
 Esse projeto visa buscar encontros e relacionamentos aos devs.
 
+<br>
 <br>
 <img src="/uploads/foto1.png">
 <br>

@@ -27,7 +27,8 @@ Foram feitas as seguintes funcionalidades:
   1. Models;
   2. Controllers;
   3. Conexão com banco de dados;
-  4. Criação das rotas.
+  4. Criação das rotas;
+  5. Aplicação on real time.
 
 <br>
 

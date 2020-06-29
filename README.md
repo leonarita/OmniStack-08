@@ -49,7 +49,7 @@ Possui duas telas:
 
 Para o mobile, foram utilizadas ferramentas como `axios`, `react-navigation` e `socket.io-client`. 
 <br>
-<b>r
+<br>
 Possui duas telas: 
   1. Tela inicial;
   2. Tela de listagem (que possibilita likes e dislikes)

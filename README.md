@@ -17,13 +17,17 @@ Esse projeto visa buscar encontros e relacionamentos aos devs.
 
 ### 1. Backend
 
-Para o backend, foram utilizadas ferramentas como `express`, `axios`, `mongoose`, `cors` e `socket.io`. Foram feitas as models, controllers, validação de dados, conexão com banco de dados e criação das rotas.
+Para o backend, foram utilizadas ferramentas como `express`, `axios`, `mongoose`, `cors` e `socket.io`. 
+<br>
+Foram feitas as models, controllers, validação de dados, conexão com banco de dados e criação das rotas.
 
 <br>
 
 ### 2. Frontend
 
-Para o frontend, foram utilizadas ferramentas como `axios`, `react-router-dom` e `socket.io-client`. Possui duas telas: a tela inicial e a tela de listagem (que possibilita likes e dislikes)
+Para o frontend, foram utilizadas ferramentas como `axios`, `react-router-dom` e `socket.io-client`. 
+<br>
+Possui duas telas: a tela inicial e a tela de listagem (que possibilita likes e dislikes)
 
 <br>
 <img src="/uploads/foto2.png">
@@ -31,7 +35,9 @@ Para o frontend, foram utilizadas ferramentas como `axios`, `react-router-dom` e
 
 ### 3. Mobile
 
-Para o mobile, foram utilizadas ferramentas como `axios`, `react-navigation` e `socket.io-client`. Possui duas telas: a tela inicial e a tela de listagem (que possibilita likes e dislikes)
+Para o mobile, foram utilizadas ferramentas como `axios`, `react-navigation` e `socket.io-client`. 
+<br>
+Possui duas telas: a tela inicial e a tela de listagem (que possibilita likes e dislikes)
 
 <br>
 <img src="/uploads/foto3.png">
@@ -39,7 +45,9 @@ Para o mobile, foram utilizadas ferramentas como `axios`, `react-navigation` e `
 
 ### 4. Funcionalidade On Real Time
 
-Caso dois desenvolvedores curtam um ao outro, é transmitido a tela "deu match". Essa funcionalidade é devida ao `socket.io` e `socket.io-client`.
+Caso dois desenvolvedores curtam um ao outro, é transmitido a tela "deu match". 
+<br>
+Essa funcionalidade é devida ao `socket.io` e `socket.io-client`.
 
 <br>
 <img src="/uploads/foto4.png">

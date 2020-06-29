@@ -60,6 +60,9 @@ Possui duas telas:
 <img src="/uploads/foto3.png">
 <br>
 
+_Obs: 'Em /mobile/src/services/api' foi utilizada a base URL '10.0.2.2', pois estava utilizando o emulador android._
+<br>
+
 ### 4. Funcionalidade On Real Time
 
 Caso dois desenvolvedores curtam um ao outro, é transmitido a tela "deu match". 

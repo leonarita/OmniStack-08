@@ -22,7 +22,12 @@ Esse projeto visa buscar encontros e relacionamentos aos devs.
 
 Para o backend, foram utilizadas ferramentas como `express`, `axios`, `mongoose`, `cors` e `socket.io`. 
 <br>
-Foram feitas as models, controllers, validação de dados, conexão com banco de dados e criação das rotas.
+<br>
+Foram feitas as seguintes funcionalidades:
+  1. Models;
+  2. Controllers;
+  3. Conexão com banco de dados;
+  4. Criação das rotas.
 
 <br>
 
@@ -30,7 +35,10 @@ Foram feitas as models, controllers, validação de dados, conexão com banco de
 
 Para o frontend, foram utilizadas ferramentas como `axios`, `react-router-dom` e `socket.io-client`. 
 <br>
-Possui duas telas: a tela inicial e a tela de listagem (que possibilita likes e dislikes)
+<br>
+Possui duas telas: 
+  1. Tela inicial;
+  2. Tela de listagem (que possibilita likes e dislikes).
 
 <br>
 <img src="/uploads/foto2.png">
@@ -40,7 +48,10 @@ Possui duas telas: a tela inicial e a tela de listagem (que possibilita likes e 
 
 Para o mobile, foram utilizadas ferramentas como `axios`, `react-navigation` e `socket.io-client`. 
 <br>
-Possui duas telas: a tela inicial e a tela de listagem (que possibilita likes e dislikes)
+<b>r
+Possui duas telas: 
+  1. Tela inicial;
+  2. Tela de listagem (que possibilita likes e dislikes)
 
 <br>
 <img src="/uploads/foto3.png">

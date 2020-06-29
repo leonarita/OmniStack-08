@@ -47,6 +47,8 @@ Possui duas telas:
 
 ### 3. Mobile
 
+Foi utilizando o `React-Native-CLI` para a criação da aplicação mobile.
+<br>
 Para o mobile, foram utilizadas ferramentas como `axios`, `react-navigation` e `socket.io-client`. 
 <br>
 <br>
@@ -60,8 +62,6 @@ Possui duas telas:
 
 ### 4. Funcionalidade On Real Time
 
-Foi utilizando o `React-Native-CLI` para a criação da aplicação mobile.
-<br>
 Caso dois desenvolvedores curtam um ao outro, é transmitido a tela "deu match". 
 <br>
 Essa funcionalidade é devida ao `socket.io` e `socket.io-client`.
